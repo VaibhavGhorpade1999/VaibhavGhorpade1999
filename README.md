@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="2000" src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif" alt="Material Bread logo">
+    <img width="600" src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif" alt="Material Bread logo">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vaibav Ghorpade</h1>
@@ -11,10 +11,11 @@
 <img align="right" alt="Analysing Data" width="250" src="https://miro.medium.com/v2/resize:fit:1400/1*ikCTENIieTEz883CRoog8A.gif">
 
 - 📫 How to reach me **vaibhav99ghorpade@gmail.com**
+- 🌱 I’m currently learning **Data Analytics and Machine Learning**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/VaibhavGhorpade1999)
+- 📄 Know about my experiences [Resume](https://www.linkedin.com/in/vaibhav-ghorpade-743477154/overlay/1635521790434/single-media-viewer?type=DOCUMENT&profileId=ACoAACUWmmMBfTVxuGI9cbFsXNSnaGd7uaxSZHg&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2BtOQAjUFQcGDT9%2FgaffwBA%3D%3D)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/mysql/images/mysql-tutorial.png" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*n_ms1q5YoHAQXXUIfeADKQ.png" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 <p><img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=VaibhavGhorpade1999&show_icons=true&locale=en&layout=compact" alt="VaibhavGhorpade1999" /></p>
 
