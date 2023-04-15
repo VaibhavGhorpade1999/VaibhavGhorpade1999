@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vaibhav-ghorpade-743477154" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" alt="LinkedIN" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/vaibhavghorpade" target="blank"><img align="center" src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" alt="Kaggle" height="30" width="40" /></a>
-<a href="https://medium.com/@vaibhav99ghorpade" target="blank"><img align="center" src="https://www.glyphicons.com/img/tools/medium.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://medium.com/@vaibhav99ghorpade" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="Medium" height="30" width="80" /></a>
 <a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png?20200508182226" alt="Hacker Rank" height="30" width="40" /></a>
 </p>
 
