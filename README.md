@@ -13,7 +13,7 @@
 - 📫 How to reach me **vaibhav99ghorpade@gmail.com**
 - 🌱 I’m currently learning **Data Analytics and Machine Learning**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/VaibhavGhorpade1999)
-- 📄 Know about my experiences [Resume](https://www.linkedin.com/in/vaibhav-ghorpade-743477154/overlay/1635521790434/single-media-viewer?type=DOCUMENT&profileId=ACoAACUWmmMBfTVxuGI9cbFsXNSnaGd7uaxSZHg&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2BtOQAjUFQcGDT9%2FgaffwBA%3D%3D)
+- 📄 Know about my experiences [Resume](https://media.licdn.com/dms/document/media/D4D2DAQEfAz-L5i3NWg/profile-treasury-document-pdf-analyzed/0/1685637647750?e=1686787200&v=beta&t=20q_RAOQV3RrKXuEb607kLLjUPD5zyyP0tBI91AsuS4)
 
 
 
